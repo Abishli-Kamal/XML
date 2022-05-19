@@ -1,0 +1,49 @@
+.content {
+  margin-top: 5%;
+}
+
+.text span {
+  color: #706d6d;
+  font-family: sans-serif;
+}
+
+.price {
+  font-size: 25px;
+  color: #eb9e0f;
+  font-weight: bold;
+}
+
+li {
+  list-style: none;
+  color: #706d6d;
+  font-family: sans-serif;
+}
+
+.basket {
+  width: 40px;
+  height: 40px;
+  font-size: 25px;
+  background-color: #919191;
+  text-align: end;
+  position: relative;
+  color: red;
+}
+
+sup {
+  position: absolute;
+  top: 5px;
+  right: -5px;
+}
+
+.shop-info li:nth-child(1) {
+  color: orange;
+}
+
+.icon {
+  color: #f1dc1c;
+}
+
+input {
+  width: 80px !important;
+}
+/*# sourceMappingURL=style.css.map */
